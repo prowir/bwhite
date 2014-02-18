@@ -1,0 +1,61 @@
+
+
+html{
+	height: 100%;
+	margin: 0;
+}
+
+body{
+	height: 100%;
+	margin: 0;
+}
+
+section{
+	float: left;
+	height: 70%;
+	width: 100%;
+	background: url(img/header.jpg) no-repeat  center top;
+	background-size: 100% 100%;
+}
+
+ul{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+li{
+	padding: 0;
+	margin: 0;
+}
+
+.logo{
+	float: left;
+	height: 10%;
+	width: 10%;
+	display: inline-block;
+	position: fixed;
+}
+
+nav{
+	background: #000;
+	float: left;
+	display: inline-block;
+	height: 100px;
+	opacity: 0.7;
+	width: 90%;
+	vertical-align: top;
+	position: fixed;
+	margin-left: 10%;
+}
+
+aside{
+	background: #000;
+	float: left;
+	width: 10%;
+	opacity: 0.7;
+	vertical-align: top;
+	height: 85%;
+	position: fixed;
+	margin-top: 7.4%;
+}
